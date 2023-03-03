@@ -50,7 +50,7 @@ a {
 /* ==== Header ==== */
 .header {
     background-color: #e6f0ff;
-    height: 80vh;
+    height: 100vh;
 }
 
 .navbar {
@@ -136,7 +136,7 @@ a {
 .hero-img {
     position: absolute;
     right: calc((100vw - 1110px) / 2 - 100px);
-    bottom: 20%;
+    bottom: 0;
 }
 
 /* ==== Clients ==== */
