@@ -645,8 +645,12 @@ a {
     align-items: center;
     height: 28px;
     width: 28px;
+    background: #f9f9f9;
 }
 
+/* .footer .social-link + .social-link {
+    margin-right: 16px;
+} */
 .footer .row-bottom {
     margin-top: 81px;
     justify-content: space-between;
